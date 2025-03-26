@@ -69,18 +69,6 @@ Screenshot
 Город: Mountain View, Страна: United States, Регион: California
 Почтовый индекс: 94035, Широта: 37.4056, Долгота: -122.0775
 Провайдер: Google LLC
-License
-Private (for authorized users only)
 
-
-This README provides:
-1. Clear purpose statement
-2. Key features list
-3. Usage instructions
-4. API documentation
-5. Technical requirements
-6. Integration notes
-7. Example output
-8. Licensing information
-
-The format uses standard Markdown for GitHub compatibility and includes both technical details for developers and usage information for end users. The rate limits section is particularly important since the module relies on a free API service.
+"Информация - это оружие. Используйте его ответственно."
+© ARCHANGEL SOFTWARE 2025.
